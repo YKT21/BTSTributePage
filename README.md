@@ -18,21 +18,28 @@ The ideas behind BTS Tribute Page is I wanted to make something for my daughter.
 ## Mobile Preview
 ![image](https://user-images.githubusercontent.com/86662612/125548074-8d917539-154f-496e-8b47-417a4b02338e.png)
 
+#### The webpage is design to be responsive with different devices/monitors.
+
 ## Tools I used
 * VS Code
-* Codepen 
+* Codepen for the purpose of marking/running test to meet the requirements that set out for the project
 
 ### Responsive Website Project Requirements
 Please check out the link below for the requirements to complete this project
+
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
 ### Resources
 Photo from koreaboo.com
+
 Wikipedia and ibighit.com
 
 ### Codepen 
+Here is a link to my codepen version which passed the requirements test.
+
 https://codepen.io/ykt21/pen/JjNKYZB?editors=1100
 
 ### Here is link to the Tribute Page
+
 https://ykt21.github.io/BTSTributePage/
 
